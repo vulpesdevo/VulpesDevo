@@ -178,11 +178,11 @@
 - Development Bank of the Philippines - DBP RISE Scholar
 - Events Manager and PIO of BSIT Organization for the year 2022-2024
   
-👨‍💻**Certifications:**
+📄**Certifications:**
 - Information Technology Specialist in HTML and CSS certification from Certiport May 2024
 - DICT Hack4Gov 2 Certificate of Participation
 
-👨‍💻**Projects:**📚
+👨‍💻**Projects:**
 - Inventory Management System using  Visual Studio C#
 - Lifestyle and entertainment mobile application using Kivy Python
 - Basic Transaction System using Apache NetBeans Java
