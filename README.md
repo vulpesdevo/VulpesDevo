@@ -25,7 +25,7 @@
 <img
 	align="right"
 	alt="Coder"
-	width="450"
+	width="400"
 	src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
 	style="border-radius: 20px;border: 1px solid white"
 />
@@ -161,7 +161,9 @@
 		/>
 	</a>
 </p>
-<p align="left">
+
+<hr>
+<p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img
 			src="https://github-profile-trophy.vercel.app/?username=vulpesdevo&theme=darkhub"
@@ -170,7 +172,7 @@
 	</a>
 </p>
 
-
+<hr>
 	
 🏆**Accomplishments:**
 - Development Bank of the Philippines - DBP RISE Scholar
@@ -180,7 +182,7 @@
 - Information Technology Specialist in HTML and CSS certification from Certiport May 2024
 - DICT Hack4Gov 2 Certificate of Participation
   
-
+<hr>
   
 ## Github Statistics: 
 <p>
