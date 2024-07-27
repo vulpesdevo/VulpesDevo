@@ -170,7 +170,7 @@
 	</a>
 </p>
 
-<kbd>
+
 	
 🏆**Accomplishments:**
 - Development Bank of the Philippines - DBP RISE Scholar
@@ -180,7 +180,7 @@
 - Information Technology Specialist in HTML and CSS certification from Certiport May 2024
 - DICT Hack4Gov 2 Certificate of Participation
   
-</kbd>
+
   
 ## Github Statistics: 
 <p>
