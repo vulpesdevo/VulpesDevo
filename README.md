@@ -21,12 +21,13 @@
 
 
 <h3 align="center">A passionate Web Developer from the Philippines</h3>
+
 <img
-	align="left"
+	align="right"
 	alt="Coder"
 	width="450"
 	src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-	style="border-radius: 20px"
+	style="border-radius: 20px;border: 1px solid white"
 />
 
 
@@ -39,9 +40,10 @@
     <img src="https://img.icons8.com/material-outlined/24/ffa500/resume.png" alt="Resume" />
 </a>
 
+<br>
 
-<h3 align="right">:Languages and Tools</h3>
-<p align="right" >
+👨‍💻**Languages and Tools:**
+<p align="left" >
 	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 		<img
 			src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"
@@ -168,6 +170,8 @@
 	</a>
 </p>
 
+<kbd>
+	
 🏆**Accomplishments:**
 - Development Bank of the Philippines - DBP RISE Scholar
 - Events Manager and PIO of BSIT Organization for the year 2022-2024
@@ -175,6 +179,8 @@
 👨‍💻**Certifications:**
 - Information Technology Specialist in HTML and CSS certification from Certiport May 2024
 - DICT Hack4Gov 2 Certificate of Participation
+  
+</kbd>
   
 ## Github Statistics: 
 <p>
