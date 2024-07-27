@@ -1,6 +1,12 @@
 <div align="center" width="100%" height="400">
-<img align="center" alt="Coder" width="400" height="400" src="https://github.com/VulpesDevo/Projects-Studies/blob/main/giphy.gif" style="border-radius: 20px;">
 
+<img
+	align="center"
+	alt="Coder"
+	width="400"
+	src="https://github.com/VulpesDevo/Projects-Studies/blob/main/Coding.gif"
+	style="border-radius: 20px;border: 1px solid white"
+/>
 </div>
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate "><code>
@@ -22,13 +28,7 @@
 
 <h3 align="center">A passionate Web Developer from the Philippines</h3>
 
-<img
-	align="right"
-	alt="Coder"
-	width="400"
-	src="https://github.com/VulpesDevo/Projects-Studies/blob/main/Coding.gif"
-	style="border-radius: 20px;border: 1px solid white"
-/>
+<img align="right" alt="Coder" width="400" height="400" src="https://github.com/VulpesDevo/Projects-Studies/blob/main/giphy.gif" style="border-radius: 20px;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vulpesdevo&label=Profile%20views&color=1e005a&style=flat" alt="vulpesdevo" /> </p>
