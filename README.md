@@ -181,7 +181,14 @@
 👨‍💻**Certifications:**
 - Information Technology Specialist in HTML and CSS certification from Certiport May 2024
 - DICT Hack4Gov 2 Certificate of Participation
-  
+
+👨‍💻**Projects:**📚
+- Inventory Management System using  Visual Studio C#
+- Lifestyle and entertainment mobile application using Kivy Python
+- Basic Transaction System using Apache NetBeans Java
+- IT Support Ticketing system using HTML, CSS and JAVASCRIPT
+- Hotel/Resort Management System using Vue.js, Django Python and mongoDb
+- A Capstone Project, A Multi-Platform Web Forum Application for Global Cultural Exchange using Vue.js, Django Python, and mongoDb with API’s
 <hr>
   
 ## Github Statistics: 
