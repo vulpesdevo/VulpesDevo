@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mark</h1>
+ __   __  __   __  ___      _______  _______  _______    _______  _______  ______   _______  __   __ 
+|  | |  ||  | |  ||   |    |       ||       ||       |  |       ||       ||      | |       ||  | |  |
+|  |_|  ||  | |  ||   |    |    _  ||    ___||  _____|  |       ||   _   ||  _    ||    ___||  |_|  |
+|       ||  |_|  ||   |    |   |_| ||   |___ | |_____   |       ||  | |  || | |   ||   |___ |       |
+|       ||       ||   |___ |    ___||    ___||_____  |  |      _||  |_|  || |_|   ||    ___||       |
+ |     | |       ||       ||   |    |   |___  _____| |  |     |_ |       ||       ||   |___  |     | 
+  |___|  |_______||_______||___|    |_______||_______|  |_______||_______||______| |_______|  |___|  
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 <img
 	align="right"
@@ -8,17 +14,17 @@
 	style="border-radius: 20px"
 />
 
-<p align="left">
-	<img
-		src="https://komarev.com/ghpvc/?username=vulpesdevo&label=Profile%20views&color=0e75b6&style=flat"
-		alt="vulpesdevo"
-	/>
-</p>
 
-- 🌱 I’m currently learning **Vue JS, React JS** - 👨‍💻 All of my projects are
-available at [https://github.com/VulpesDevo](https://github.com/VulpesDevo) - 📫
-How to reach me **francisgalan21@gmail.com** - 📄 Know about ME
-[https://drive.google.com/file/d/1SViwfKIwCGvErMpVkrXXTIC3vuRkGvNJ/view?usp=sharing](https://drive.google.com/file/d/1SViwfKIwCGvErMpVkrXXTIC3vuRkGvNJ/view?usp=sharing)
+
+- 🌱 I’m currently learning **Vue JS, React JS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/VulpesDevo](https://github.com/VulpesDevo)
+
+- 📫 How to reach me **francisgalan21@gmail.com**
+
+- 📄 Know about ME <a href="https://drive.google.com/file/d/1SViwfKIwCGvErMpVkrXXTIC3vuRkGvNJ/view?usp=sharing" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/material-outlined/24/ffa500/resume.png" alt="Resume" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -179,34 +185,28 @@ How to reach me **francisgalan21@gmail.com** - 📄 Know about ME
 		/>
 	</a>
 </p>
-<div style="display: flex; flex-direction: column">
-	<div
-		style="
-			display: flex;
-			justify-content: space-between;
-			align-items: center;
-			margin: 0;
-			padding: 0;
-		"
-	>
-		<p>
-			<img
-				src="https://github-readme-stats.vercel.app/api?username=vulpesdevo&show_icons=true&locale=en&bg_color=1a1b27&text_color=ffffff"
-				alt="vulpesdevo"
-			/>
-		</p>
-		<p>
-			<img
-				src="https://github-readme-streak-stats.herokuapp.com/?user=vulpesdevo&background=1a1b27&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
-				alt="vulpesdevo"
-			/>
-		</p>
-	</div>
-	<p>
-		<img
-			align="right"
-			src="https://github-readme-stats.vercel.app/api/top-langs?username=vulpesdevo&show_icons=true&locale=en&layout=compact&bg_color=1a1b27&text_color=ffffff"
-			alt="vulpesdevo"
-		/>
-	</p>
-</div>
+
+## Github Statistics: 
+<p>
+<img
+	align="right"
+	src="https://github-readme-stats.vercel.app/api/top-langs?username=vulpesdevo&show_icons=true&locale=en&layout=compact&bg_color=1a1b27&text_color=ffffff"
+	alt="vulpesdevo"
+/>
+</p>
+<p>
+	<img
+		src="https://github-readme-stats.vercel.app/api?username=vulpesdevo&show_icons=true&locale=en&bg_color=1a1b27&text_color=ffffff"
+		alt="vulpesdevo"
+	/>
+</p>
+
+<p>
+	<img
+		src="https://github-readme-streak-stats.herokuapp.com/?user=vulpesdevo&background=1a1b27&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
+		alt="vulpesdevo"
+	/>
+</p>
+
+
+
