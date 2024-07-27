@@ -3,7 +3,7 @@
 
 </div>
 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate "><code>
 		__   __  __   __  ___      _______  _______  _______    _______  _______  ______   _______  __   __ 
 		|  | |  ||  | |  ||   |    |       ||       ||       |  |       ||       ||      | |       ||  | |  |
 		|  |_|  ||  | |  ||   |    |    _  ||    ___||  _____|  |       ||   _   ||  _    ||    ___||  |_|  |
@@ -31,6 +31,7 @@
 />
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vulpesdevo&label=Profile%20views&color=1e005a&style=flat" alt="vulpesdevo" /> </p>
 
 - 🌱 I’m currently learning **Vue JS, React JS**
 - 📚 Currently taking Bachelors Degree in Information Technology
@@ -208,7 +209,7 @@
 
 <p>
 	<img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=vulpesdevo&background=1a1b27&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=vulpesdevo&background=1a1b27&stroke=cc6804&ring=cc6804&fire=cc6804&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
 		alt="vulpesdevo"
 	/>
 </p>
