@@ -190,7 +190,7 @@
 - IT Support Ticketing system using HTML, CSS and JAVASCRIPT
 - Hotel/Resort Management System using Vue.js, Django Python and mongoDb
 - A Capstone Project, A Multi-Platform Web Forum Application for Global Cultural Exchange using Vue.js, Django Python, and mongoDb with API’s
-- <a href="https://66adebdd95b597459ee4729c--makkie-portfolio.netlify.app/" target="_blank"> My Porfolio</a> 
+- <a href="https://mark-galan.netlify.app" target="_blank"> My Porfolio</a> 
 <hr>
   
 ## Github Statistics: 
