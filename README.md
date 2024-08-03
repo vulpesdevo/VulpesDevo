@@ -161,6 +161,14 @@
 			height="40"
 		/>
 	</a>
+	<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"
+			alt="vuejs"
+			width="40"
+			height="40"
+		/>
+	</a>
 </p>
 
 <hr>
