@@ -161,26 +161,26 @@
 			height="40"
 		/>
 	</a>
-	<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+	<a href="https://react.dev" target="_blank" rel="noreferrer">
 		<img
 			src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"
-			alt="vuejs"
+			alt="react"
 			width="40"
 			height="40"
 		/>
 	</a>
-	<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+	<a href="https://www.php.net" target="_blank" rel="noreferrer">
 		<img
 			src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"
-			alt="vuejs"
+			alt="php"
 			width="40"
 			height="40"
 		/>
 	</a>
-		<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+		<a href="https://laravel.com/docs/11.x/" target="_blank" rel="noreferrer">
 		<img
 			src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
-			alt="vuejs"
+			alt="laravel"
 			width="40"
 			height="40"
 		/>
