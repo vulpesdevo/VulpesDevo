@@ -37,7 +37,7 @@
 - 📚 Currently taking Bachelors Degree in Information Technology
 - 👨‍💻 All of my projects are available at [https://github.com/VulpesDevo](https://github.com/VulpesDevo)
 - 📫 How to reach me **francisgalan21@gmail.com**
-- 📄 Know about ME <a href="https://drive.google.com/file/d/1SViwfKIwCGvErMpVkrXXTIC3vuRkGvNJ/view?usp=sharing" target="_blank" rel="noreferrer">
+- 📄 Know about ME <a href="https://drive.google.com/file/d/1GTRD-aZlFQF4jB4dDaQadGFmitddEHoH/view?usp=sharing" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/material-outlined/24/ffa500/resume.png" alt="Resume" />
 </a>
 
