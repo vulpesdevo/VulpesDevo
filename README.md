@@ -171,7 +171,7 @@
 	</a>
 	<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 		<img
-			src="[https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg)"
+			src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"
 			alt="vuejs"
 			width="40"
 			height="40"
@@ -179,7 +179,7 @@
 	</a>
 		<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 		<img
-			src="[https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg)"
+			src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
 			alt="vuejs"
 			width="40"
 			height="40"
